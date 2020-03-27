@@ -1,0 +1,17 @@
+Given is a set of 19 stores from pharmacy-consmetics-hygiene sector in Portugal. They are evaluated using 4 inputs and 2 outputs descibled below. We need to analyse their efficiency.
+
+Inputs
+i1: Average stock - Average value of inventory (in euros); 
+i2: Number of employees - Number of full-time
+equivalent employees; 
+i3: Salary costs - Total cost with salaries (in euros);
+i4: Rent - Cost of space (in euros);
+i5: Area - Total area of the store (m^2)
+
+Outputs:
+o1: Global sales - Global value of sales (in euros);
+o2: Family 4 sales/Global sales - Proportion of
+Family 4 products in global sales
+
+Example from
+de Almeida PN, Dias LC, "Value-based DEA models: application-driven developments", Journal of the Operational Research Society, Vol. 63, 16–27, 2012
